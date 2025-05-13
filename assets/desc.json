@@ -1,0 +1,16 @@
+[
+    {
+        "id":"hdmi",
+        "name":"HDMI",
+        "images":"pics/video/hdmi.png",
+        "type":"video",
+        "desc":""
+    },
+    {
+        "id":"jack",
+        "name":"Prise jack",
+        "images":"pics/audio/jack.png",
+        "type":"audio",
+        "desc":""
+    }
+]
